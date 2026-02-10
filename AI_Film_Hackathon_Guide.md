@@ -157,90 +157,90 @@ This is an example subtitle.
 
 | Tool | Best For | Pricing | Key Feature |
 |------|----------|---------|-------------|
-| **Runway Gen-4.5** | Cinematic scenes, character consistency, complex camera movements | Limited free credits | World's top-rated visual fidelity |
-| **Runway Gen-4** | Character-driven storytelling | Limited free credits | Act Two for character consistency |
-| **Kling 3.0** | Multi-shot sequences, storyboard workflows, longer clips | Free daily credits | Native audio-video generation, Multi-Shot storyboard |
-| **Kling 2.6** | Character-driven scenes, motion control, lip-sync | Free daily credits | Motion brush, pose control |
-| **Google Veo 3.1** | Dialogue scenes, audio-visual synchronization | Google AI Studio (limits) | Native audio generation + lip-sync |
-| **OpenAI Sora 2** | Realistic motion, complex scenes, long-duration clips | ChatGPT Plus subscription | Exceptional physics understanding |
-| **Pika 2.0** | Creative effects, transformations, quick iterations | Free tier | Fast creative experimentation |
-| **Luma Ray2** | Fast iteration, cinematic shots, atmospheric scenes | Free generations | Ray2 Flash for rapid prototyping |
-| **Hailuo AI Pro 2.3** | Controlled camera movements, cinematic compositions | Free tier | 12V Director for shot control |
-| **Wan 2.6** | Local generation, fine-tuning, open-source workflows | Free (open source) | Animate mode, good text following |
-| **LTX Video 2** | Speed-focused workflows, real-time preview | Free tier (limits) | Real-time generation + LTXV 2 Retake |
-| **Higgsfield Soul 1.0** | Multi-model access, comparing outputs | Free account with credits | Access to Veo 3, Kling, and more |
-| **SeedAnce Pro** | Dance sequences, character animation | Free tier | ByteDance's motion specialization |
-| **Marey** | Pose-driven animation, motion transfer | Limited free tier | Director-style camera paths, licensed training data |
-| **xAI Imagine Video** | Grok ecosystem, alternative style | Via X Premium | Grok integration |
+| [**Runway Gen-4.5**](https://runwayml.com/) | Cinematic scenes, character consistency, complex camera movements | Limited free credits | World's top-rated visual fidelity |
+| [**Runway Gen-4**](https://runwayml.com/) | Character-driven storytelling | Limited free credits | Act Two for character consistency |
+| [**Kling 3.0**](https://klingai.com/) | Multi-shot sequences, storyboard workflows, longer clips | Free daily credits | Native audio-video generation, Multi-Shot storyboard |
+| [**Kling 2.6**](https://klingai.com/) | Character-driven scenes, motion control, lip-sync | Free daily credits | Motion brush, pose control |
+| [**Google Veo 3.1**](https://aistudio.google.com/) | Dialogue scenes, audio-visual synchronization | Google AI Studio (limits) | Native audio generation + lip-sync |
+| [**OpenAI Sora 2**](https://openai.com/sora) | Realistic motion, complex scenes, long-duration clips | ChatGPT Plus subscription | Exceptional physics understanding |
+| [**Pika 2.0**](https://pika.art/) | Creative effects, transformations, quick iterations | Free tier | Fast creative experimentation |
+| [**Luma Ray2**](https://lumalabs.ai/) | Fast iteration, cinematic shots, atmospheric scenes | Free generations | Ray2 Flash for rapid prototyping |
+| [**Hailuo AI Pro 2.3**](https://hailuoai.video/) | Controlled camera movements, cinematic compositions | Free tier | 12V Director for shot control |
+| [**Wan 2.6**](https://github.com/Wan-Video/Wan2.1) | Local generation, fine-tuning, open-source workflows | Free (open source) | Animate mode, good text following |
+| [**LTX Video 2**](https://www.lightricks.com/ltxv) | Speed-focused workflows, real-time preview | Free tier (limits) | Real-time generation + LTXV 2 Retake |
+| [**Higgsfield Soul 1.0**](https://higgsfield.ai/) | Multi-model access, comparing outputs | Free account with credits | Access to Veo 3, Kling, and more |
+| [**SeedAnce Pro**](https://seedance.ai/) | Dance sequences, character animation | Free tier | ByteDance's motion specialization |
+| [**Marey**](https://www.moonvalley.com/) | Pose-driven animation, motion transfer | Limited free tier | Director-style camera paths, licensed training data |
+| [**xAI Imagine Video**](https://x.com/) | Grok ecosystem, alternative style | Via X Premium | Grok integration |
 
 ### 3.2 Image Generation
 
 | Tool | Best For | Pricing | Key Feature |
 |------|----------|---------|-------------|
-| **Midjourney V6.1** | Concept art, storyboards, character consistency | Paid only | `--cref` for character references, style references |
-| **Flux Kontext** | Storyboards, character sheets, consistent visuals | Via platforms | Character-consistent generation |
-| **Google Imagen 4** | Photorealistic images, complex scenes | Google AI Studio | Excellent prompt understanding |
-| **Ideogram 3.0** | Movie posters, title cards, graphics with text | 25 free images/day | Best typography in images |
-| **Recraft V3** | Logos, icons, design assets | Free tier | Design-focused with vector outputs |
-| **Luma Photon** | Photorealistic images, product shots | Free tier | Photorealistic outputs |
-| **Stable Diffusion 3.5** | Local generation, custom models, fine-tuning | Free (open source) | LoRA support, full customization |
-| **Nano Banana (Gemini Image)** | Quick iterations, poster generation, image editing | Included with Lovable | Fast generation and editing |
-| **Nano Banana Pro** | High-quality posters, detailed artwork | Included with Lovable | Better quality for complex prompts |
-| **Qwen Image Edit** | Image editing, inpainting, style transfer | Via platforms | Alibaba's editing model |
-| **Reve / Reve Blend** | Image blending, creative compositions | Free tier | Blending capabilities |
-| **xAI Imagine** | Grok ecosystem, alternative style | Via X Premium | Grok integration |
+| [**Midjourney V6.1**](https://www.midjourney.com/) | Concept art, storyboards, character consistency | Paid only | `--cref` for character references, style references |
+| [**Flux Kontext**](https://blackforestlabs.ai/) | Storyboards, character sheets, consistent visuals | Via platforms | Character-consistent generation |
+| [**Google Imagen 4**](https://aistudio.google.com/) | Photorealistic images, complex scenes | Google AI Studio | Excellent prompt understanding |
+| [**Ideogram 3.0**](https://ideogram.ai/) | Movie posters, title cards, graphics with text | 25 free images/day | Best typography in images |
+| [**Recraft V3**](https://www.recraft.ai/) | Logos, icons, design assets | Free tier | Design-focused with vector outputs |
+| [**Luma Photon**](https://lumalabs.ai/) | Photorealistic images, product shots | Free tier | Photorealistic outputs |
+| [**Stable Diffusion 3.5**](https://stability.ai/) | Local generation, custom models, fine-tuning | Free (open source) | LoRA support, full customization |
+| [**Nano Banana (Gemini Image)**](https://aistudio.google.com/) | Quick iterations, poster generation, image editing | Included with Lovable | Fast generation and editing |
+| [**Nano Banana Pro**](https://aistudio.google.com/) | High-quality posters, detailed artwork | Included with Lovable | Better quality for complex prompts |
+| [**Qwen Image Edit**](https://huggingface.co/Qwen) | Image editing, inpainting, style transfer | Via platforms | Alibaba's editing model |
+| [**Reve / Reve Blend**](https://www.reve.art/) | Image blending, creative compositions | Free tier | Blending capabilities |
+| [**xAI Imagine**](https://x.com/) | Grok ecosystem, alternative style | Via X Premium | Grok integration |
 
 ### 3.3 Music & Audio
 
 | Tool | Best For | Pricing | Key Feature |
 |------|----------|---------|-------------|
-| **Suno V4** | Full songs with vocals, custom jingles, theme songs | 10 songs/day free | Complete songs with lyrics and vocals up to 4 min |
-| **Udio** | Professional instrumentals, genre-specific tracks | Limited free | High-fidelity, excellent genre control |
-| **ElevenLabs Music** | Background music, mood-based generation | Free tier | Studio-quality output |
-| **ElevenLabs Sound Effects** | Custom sound effects, foley, ambient sounds | Free tier | Text-to-SFX |
-| **Stable Audio Open** | Free music generation, local workflows | Free (open source) | Full local control |
-| **Soundverse** | Background music, audio branding | Free tier | AI-powered composition |
-| **Soundraw** | Video-matched music, customizable tracks | Free tier | Stems + energy curve customization |
-| **Moises AI Studio** | Building on existing audio, stem generation | Free trial | Stem matching to your style |
+| [**Suno V4**](https://suno.com/) | Full songs with vocals, custom jingles, theme songs | 10 songs/day free | Complete songs with lyrics and vocals up to 4 min |
+| [**Udio**](https://www.udio.com/) | Professional instrumentals, genre-specific tracks | Limited free | High-fidelity, excellent genre control |
+| [**ElevenLabs Music**](https://elevenlabs.io/) | Background music, mood-based generation | Free tier | Studio-quality output |
+| [**ElevenLabs Sound Effects**](https://elevenlabs.io/sound-effects) | Custom sound effects, foley, ambient sounds | Free tier | Text-to-SFX |
+| [**Stable Audio Open**](https://stability.ai/) | Free music generation, local workflows | Free (open source) | Full local control |
+| [**Soundverse**](https://www.soundverse.ai/) | Background music, audio branding | Free tier | AI-powered composition |
+| [**Soundraw**](https://soundraw.io/) | Video-matched music, customizable tracks | Free tier | Stems + energy curve customization |
+| [**Moises AI Studio**](https://moises.ai/) | Building on existing audio, stem generation | Free trial | Stem matching to your style |
 
 ### 3.4 Voice & Narration
 
 | Tool | Best For | Pricing | Key Feature |
 |------|----------|---------|-------------|
-| **ElevenLabs** | Voiceovers, narration, character voices, dubbing | 10,000 chars/month free | Emotional synthesis, voice cloning, 32 languages, Audio Tags |
-| **Fish Audio** | Quick voice cloning, multilingual TTS | Free tier | Fast cloning with minimal samples |
-| **Murf AI** | Professional voiceovers, e-learning | 10 minutes free | 200+ natural voices, studio quality |
-| **Resemble AI** | Custom voice agents, real-time applications, gaming | Free trial | Real-time cloning with emotion control |
-| **Lovo AI** | Multilingual voiceovers, narration with video | Limited free | 500+ voices with built-in video editor |
+| [**ElevenLabs**](https://elevenlabs.io/) | Voiceovers, narration, character voices, dubbing | 10,000 chars/month free | Emotional synthesis, voice cloning, 32 languages, Audio Tags |
+| [**Fish Audio**](https://fish.audio/) | Quick voice cloning, multilingual TTS | Free tier | Fast cloning with minimal samples |
+| [**Murf AI**](https://murf.ai/) | Professional voiceovers, e-learning | 10 minutes free | 200+ natural voices, studio quality |
+| [**Resemble AI**](https://www.resemble.ai/) | Custom voice agents, real-time applications, gaming | Free trial | Real-time cloning with emotion control |
+| [**Lovo AI**](https://lovo.ai/) | Multilingual voiceovers, narration with video | Limited free | 500+ voices with built-in video editor |
 
 ### 3.5 Editing Tools
 
 | Tool | Best For | Pricing | Key Feature |
 |------|----------|---------|-------------|
-| **Adobe Premiere Pro** | Professional editing, complex timelines | 7-day free trial | AI auto-reframe, speech-to-text |
-| **Final Cut Pro** | Mac users, fast rendering | 90-day free trial | Magnetic timeline, optimized for Mac |
-| **DaVinci Resolve 19** | Color grading, professional finishing, complete post | **Full free version** | Industry-standard color + AI tools |
-| **Descript** | Text-based editing, transcript editing, subtitles | Free tier | Edit video by editing text |
-| **CapCut** | Quick edits, auto-captions, social media | Free with premium | Auto-captions, AI effects |
-| **Arcade Studio** | AI-assisted creative workflows | Free tier | Multi-modal generation |
-| **Opus Clip** | Creating short clips from long videos | Free tier | AI virality scoring |
+| [**Adobe Premiere Pro**](https://www.adobe.com/products/premiere.html) | Professional editing, complex timelines | 7-day free trial | AI auto-reframe, speech-to-text |
+| [**Final Cut Pro**](https://www.apple.com/final-cut-pro/) | Mac users, fast rendering | 90-day free trial | Magnetic timeline, optimized for Mac |
+| [**DaVinci Resolve 19**](https://www.blackmagicdesign.com/products/davinciresolve) | Color grading, professional finishing, complete post | **Full free version** | Industry-standard color + AI tools |
+| [**Descript**](https://www.descript.com/) | Text-based editing, transcript editing, subtitles | Free tier | Edit video by editing text |
+| [**CapCut**](https://www.capcut.com/) | Quick edits, auto-captions, social media | Free with premium | Auto-captions, AI effects |
+| [**Arcade Studio**](https://www.arcade.studio/) | AI-assisted creative workflows | Free tier | Multi-modal generation |
+| [**Opus Clip**](https://www.opus.pro/) | Creating short clips from long videos | Free tier | AI virality scoring |
 
 ### 3.6 Post-Production
 
 | Tool | Best For | Pricing |
 |------|----------|---------|
-| **Flora AI** | Unified multi-model access (video, image, audio) | One subscription |
+| [**Flora AI**](https://flora.ai/) | Unified multi-model access (video, image, audio) | One subscription |
 | **Weavy** | Complex AI workflows, combining multiple models | Free tier (now part of Figma) |
 
 ### 3.7 Upscaling & Enhancement
 
 | Tool | Best For | Pricing | Key Feature |
 |------|----------|---------|-------------|
-| **Topaz Video AI** | Upscaling AI video to 4K, removing artifacts | Free trial | Industry-leading upscaling + stabilization |
-| **Magnific AI V2** | Image upscaling with artistic enhancement | Limited free | Creative detail hallucination + Precision mode |
-| **Bria Video Upscaler** | Quick video upscaling, batch processing | Via platforms | Fast processing |
+| [**Topaz Video AI**](https://www.topazlabs.com/topaz-video-ai) | Upscaling AI video to 4K, removing artifacts | Free trial | Industry-leading upscaling + stabilization |
+| [**Magnific AI V2**](https://magnific.ai/) | Image upscaling with artistic enhancement | Limited free | Creative detail hallucination + Precision mode |
+| [**Bria Video Upscaler**](https://bria.ai/) | Quick video upscaling, batch processing | Via platforms | Fast processing |
 | **Flora Upscaler** | Upscaling within Flora workflow | Pay-per-use | Integrated workflow |
-| **UniFab** | SDR to HDR conversion, video enhancement | Free trial | HDR upconversion + noise reduction |
+| [**UniFab**](https://unifab.ai/) | SDR to HDR conversion, video enhancement | Free trial | HDR upconversion + noise reduction |
 
 ---
 
@@ -248,7 +248,8 @@ This is an example subtitle.
 
 ### 4.1 Cinematic Prompting: The Paul Trillo Method
 
-> **Source:** Paul Trillo — Sora early tester, director of *The Golden Record*, co-founder of Asteria
+> **Source:** [Paul Trillo](https://paultrillo.com/) — Sora early tester, director of *The Golden Record*, co-founder of [Asteria](https://www.asteriafilm.com/)
+> **Read more:** [Paul Trillo: Hacking Cinema's Next Level — Motionographer](https://motionographer.com/) | [Wyz Borrero's interview notes](https://www.youtube.com/@wyzborrero)
 
 **The Prompt Formula:**
 
@@ -266,10 +267,12 @@ This is an example subtitle.
 | **Push tools until they break** | "Every new technology is an opportunity for a new visual concept" |
 | **Craft outlasts shortcuts** | Real artists treat the machine like any instrument — learn its quirks, push harder, repeat |
 
-**Paul's Production Studio — Asteria:**
+**Paul's Production Studio — [Asteria](https://www.asteriafilm.com/):**
 - Combines cel animation, CG, and AI in one pipeline
-- **Marey** model: trained exclusively on licensed filmmaker footage — ethical AI video
+- [**Marey**](https://www.moonvalley.com/) model: trained exclusively on licensed filmmaker footage — ethical AI video
 - Director-style camera paths and multi-cam takes of the same shot
+- First project: *Cuco — A Love Letter to L.A.* with [Paul Flores](https://www.instagram.com/plflrs)'s murals
+- Upcoming: *Too Bad, So Sad, Maybe Next Birth* with [Shyama Golden](https://www.instagram.com/shyamagolden)'s paintings
 
 > 💡 *"Avoid abstract concepts — describe what the CAMERA sees, not emotions."*
 
@@ -300,6 +303,7 @@ This is an example subtitle.
 ### 4.3 Character Consistency Workflow
 
 > **Source:** Industry standard techniques, Midjourney + Flux workflow
+> **Read more:** [I just tried MidJourney's new consistent character feature — Tom's Guide](https://www.tomsguide.com/ai/ai-image-video/i-tried-midjourneys-new-consistent-character-feature-heres-how-it-turned-out) | [Flux — First Look with Midjourney Man — Creative Exploration EP74](https://journeyaiart.com/blog-creative-exploration-flux-first-look-with-midjourney-man-45964)
 
 **The Problem:** Maintaining a consistent character across multiple scenes and shots.
 
@@ -347,7 +351,7 @@ Before touching video generation, build a complete visual foundation:
 
 ### 4.5 Emotional Voice Direction with ElevenLabs
 
-> **Source:** ElevenLabs v3 Audio Tags documentation
+> **Source:** [ElevenLabs v3 Audio Tags — Expressing Emotional Context in Speech](https://elevenlabs.io/blog/eleven-v3-audio-tags-expressing-emotional-context-in-speech)
 
 **Audio Tags for Emotional Control:**
 
@@ -379,6 +383,8 @@ let's go.
 ---
 
 ### 4.6 AI Music Production
+
+> **Read more:** [AI Music Generation: Complete Guide to Suno, Udio & Soundraw for Creators — PromptTag](https://www.promptag.app/blog/ai-music-generation-suno-udio-guide)
 
 **Platform Comparison:**
 
@@ -426,6 +432,8 @@ let's go.
 
 ### 4.8 Subtitle Workflow with Descript
 
+> **Read more:** [Descript Tutorial for Beginners: 6 Steps to Master](https://www.descript.com/blog/article/descript-tutorial-for-beginners-6-steps-to-get-started)
+
 **Quick Subtitle Pipeline:**
 
 | Step | Action |
@@ -458,6 +466,8 @@ let's go.
 ---
 
 ## 5. Video Model Comparison
+
+> **Read more:** [Kling vs Sora vs Veo vs Runway: Which AI Model Wins for Real Production? — InVideo](https://invideo.io/blog/kling-vs-sora-vs-veo-vs-runway/)
 
 ### At-a-Glance Comparison
 
@@ -513,7 +523,7 @@ let's go.
 
 ### 6.2 Five Lessons from Gen:48 Veterans
 
-> **Source:** Erik Knobl's experience at Runway Gen:48 + community insights
+> **Source:** [5 lessons I learned from making an AI Film for the Gen:48 competition — Erik Knobl (Medium)](https://medium.com/design-bootcamp/5-lessons-i-learned-from-making-an-ai-film-for-the-gen-48-competition-14ec192e6521)
 
 | # | Lesson | Detail |
 |---|--------|--------|
@@ -525,7 +535,7 @@ let's go.
 
 ### 6.3 Solo Competitor Survival Guide
 
-> **Source:** Sophia Banton's experience competing solo in Gen:48 (3,000 teams entered)
+> **Source:** [How I Survived Runway's Gen:48: A 48-Hour AI Film Challenge — Sophia Banton](https://www.sophiabanton.com/post/how-i-survived-runway-s-gen-48-a-48-hour-ai-film-challenge)
 
 **Day 1 — Story Construction (Full Day):**
 - Draft a full scene-by-scene outline based on the brief
@@ -659,19 +669,20 @@ let's go.
 
 ## Sources & References
 
-| Source | Content |
-|--------|---------|
-| [NO TITLE AI Film Festival](https://notitleai.org/archive/resources) | Official rules, specs, tools, and learning resources |
-| Paul Trillo / Motionographer | Cinematic prompting method, Asteria studio, Marey model |
-| Shy Kids (Walter Woodman, Patrick Cederberg) | Multi-tool orchestration, *Air Head* film |
-| Erik Knobl — Medium | 5 Lessons from Gen:48 AI Film Competition |
-| Sophia Banton | Solo competitor Gen:48 survival guide |
-| ElevenLabs Blog | Eleven v3 Audio Tags for emotional voice direction |
-| InVideo Blog | Kling vs Sora vs Veo vs Runway comparison |
-| PromptTag Blog | AI Music Generation guide (Suno, Udio, Soundraw) |
-| JourneyAIArt / Creative Exploration | Flux model deep-dive and Midjourney techniques |
-| Tom's Guide | Midjourney character consistency (`--cref`) feature testing |
-| Descript Blog | Text-based video editing tutorial |
+| Source | Content | Link |
+|--------|---------|------|
+| NO TITLE AI Film Festival | Official rules, specs, tools, and learning resources | [notitleai.org/archive/resources](https://notitleai.org/archive/resources) |
+| Paul Trillo / Motionographer | Cinematic prompting method, Asteria studio, Marey model | [paultrillo.com](https://paultrillo.com/) / [asteriafilm.com](https://www.asteriafilm.com/) / [moonvalley.com](https://www.moonvalley.com/) |
+| Shy Kids | Multi-tool orchestration, *Air Head* film (OpenAI Sora premiere) | — |
+| Erik Knobl — Medium | 5 Lessons from Gen:48 AI Film Competition | [Read on Medium](https://medium.com/design-bootcamp/5-lessons-i-learned-from-making-an-ai-film-for-the-gen-48-competition-14ec192e6521) |
+| Sophia Banton | Solo competitor Gen:48 survival guide | [Read on sophiabanton.com](https://www.sophiabanton.com/post/how-i-survived-runway-s-gen-48-a-48-hour-ai-film-challenge) |
+| ElevenLabs Blog | Eleven v3 Audio Tags for emotional voice direction | [Read on elevenlabs.io](https://elevenlabs.io/blog/eleven-v3-audio-tags-expressing-emotional-context-in-speech) |
+| InVideo Blog | Kling vs Sora vs Veo vs Runway comparison | [Read on invideo.io](https://invideo.io/blog/kling-vs-sora-vs-veo-vs-runway/) |
+| PromptTag Blog | AI Music Generation guide (Suno, Udio, Soundraw) | [Read on promptag.app](https://www.promptag.app/blog/ai-music-generation-suno-udio-guide) |
+| JourneyAIArt | Flux model deep-dive and Midjourney techniques | [Read on journeyaiart.com](https://journeyaiart.com/blog-creative-exploration-flux-first-look-with-midjourney-man-45964) |
+| Tom's Guide | Midjourney character consistency (`--cref`) feature testing | [Read on tomsguide.com](https://www.tomsguide.com/ai/ai-image-video/i-tried-midjourneys-new-consistent-character-feature-heres-how-it-turned-out) |
+| Descript Blog | Text-based video editing tutorial | [Read on descript.com](https://www.descript.com/blog/article/descript-tutorial-for-beginners-6-steps-to-get-started) |
+| Wyz Borrero | OFFF Barcelona 2025 interview with Paul Trillo | [YouTube @wyzborrero](https://www.youtube.com/@wyzborrero) / [OFFF Barcelona](https://www.offf.barcelona/lineup) |
 
 ---
 
