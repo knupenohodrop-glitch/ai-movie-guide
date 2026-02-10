@@ -107,8 +107,9 @@ The vertical angle of the camera changes power dynamics and mood.
 ```
 "Slow pan left across a dimly lit jazz club, revealing musicians one by one"
 ```
-
-<video src="https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_slow-pan-left-across-a-dimly-lit-jazz-club-reveali_veo3_1_720p_16-9_24fps_16326.mp4" controls width="720"></video>
+<p align="center" width="100%">
+<video src="https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_slow-pan-left-across-a-dimly-lit-jazz-club-reveali_veo3_1_720p_16-9_24fps_16326.mp4" width="80%" controls></video>
+</p>
 
 
 ```
