@@ -107,17 +107,23 @@ The vertical angle of the camera changes power dynamics and mood.
 ```
 "Slow pan left across a dimly lit jazz club, revealing musicians one by one"
 ```
-> 🎬 [**Video sample**](samples/freepik_slow-pan-left-across-a-dimly-lit-jazz-club-reveali_veo3_1_720p_16-9_24fps_16326.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_slow-pan-left-across-a-dimly-lit-jazz-club-reveali_veo3_1_720p_16-9_24fps_16326.mp4
+
 
 ```
 "Camera pans right, following a car driving along a coastal road at sunset"
 ```
-> 🎬 [**Video sample**](samples/freepik_camera-pans-right-following-a-car-driving-along-a-_veo3_1_720p_16-9_24fps_16325.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_camera-pans-right-following-a-car-driving-along-a-_veo3_1_720p_16-9_24fps_16325.mp4
+
 
 ```
 "Gentle pan from an empty chair to a window with rain streaming down"
 ```
-> 🎬 [**Video sample**](samples/freepik_gentle-pan-from-an-empty-chair-to-a-window-with-ra_veo3_1_720p_16-9_24fps_16324.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_gentle-pan-from-an-empty-chair-to-a-window-with-ra_veo3_1_720p_16-9_24fps_16324.mp4
+
 
 **Speed variations:**
 - `"slow pan"` — contemplative, observational
@@ -137,7 +143,9 @@ The vertical angle of the camera changes power dynamics and mood.
 ```
 "Camera tilts up from muddy boots on the ground to reveal a cowboy standing against the sunset sky"
 ```
-> 🎬 [**Video sample**](samples/freepik_camera-tilts-up-from-muddy-boots-on-the-ground-to-_veo3_1_720p_16-9_24fps_16323.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_camera-tilts-up-from-muddy-boots-on-the-ground-to-_veo3_1_720p_16-9_24fps_16323.mp4
+
 
 ```
 "Slow tilt down from storm clouds to a lone figure walking through an open field"
@@ -146,7 +154,9 @@ The vertical angle of the camera changes power dynamics and mood.
 ```
 "Tilt up along a skyscraper facade, floor by floor, until reaching the rooftop"
 ```
-> 🎬 [**Video sample**](samples/freepik_tilt-up-along-a-skyscraper-facade-floor-by-floor-u_veo3_1_720p_16-9_24fps_16322.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_tilt-up-along-a-skyscraper-facade-floor-by-floor-u_veo3_1_720p_16-9_24fps_16322.mp4
+
 
 **Speed variations:**
 - `"slow tilt up"` — builds anticipation, reveals gradually
@@ -173,9 +183,15 @@ The vertical angle of the camera changes power dynamics and mood.
 
 "Dolly out from a close-up of hands typing to reveal a massive control room"
 ```
-> 🎬 [**Video sample — Dolly in close-up**](samples/freepik_closeup-eye-level-gentle-dolly-in85mm-lens-shallow_veo3_1_720p_16-9_24fps_16265.mp4)
+> 🎬 **Dolly in close-up**
 
-> 🎬 [**Video sample — Dolly in on woman in rain**](samples/freepik_medium-closeup-slow-dolly-in-on-a-woman-standing-o_veo3_1_720p_16-9_24fps_16327.mp4)
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_closeup-eye-level-gentle-dolly-in85mm-lens-shallow_veo3_1_720p_16-9_24fps_16265.mp4
+
+
+> 🎬 **Dolly in on woman in rain**
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_medium-closeup-slow-dolly-in-on-a-woman-standing-o_veo3_1_720p_16-9_24fps_16327.mp4
+
 
 > **Dolly vs Zoom:** A dolly changes *perspective* (parallax shifts, background changes). A zoom only magnifies. AI models respond to both terms differently — `"dolly in"` tends to produce more cinematic parallax than `"zoom in"`.
 
@@ -192,22 +208,30 @@ The vertical angle of the camera changes power dynamics and mood.
 ```
 "Tracking shot moving alongside a man jogging through a city street at dawn"
 ```
-> 🎬 [**Video sample**](samples/freepik_tracking-shot-moving-alongside-a-man-jogging-throu_veo3_1_720p_16-9_24fps_16321.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_tracking-shot-moving-alongside-a-man-jogging-throu_veo3_1_720p_16-9_24fps_16321.mp4
+
 
 ```
 "Lateral tracking shot following a woman as she walks through a crowded market"
 ```
-> 🎬 [**Video sample**](samples/freepik_lateral-tracking-shot-following-a-woman-as-she-wal_veo3_1_720p_16-9_24fps_16320.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_lateral-tracking-shot-following-a-woman-as-she-wal_veo3_1_720p_16-9_24fps_16320.mp4
+
 
 ```
 "Camera slides left to right past a row of old photographs on a mantel"
 ```
-> 🎬 [**Video sample**](samples/freepik_camera-slides-left-to-right-past-a-row-of-old-phot_veo3_1_720p_16-9_24fps_16319.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_camera-slides-left-to-right-past-a-row-of-old-phot_veo3_1_720p_16-9_24fps_16319.mp4
+
 
 ```
 "Side-scrolling tracking shot through a futuristic corridor with neon lights"
 ```
-> 🎬 [**Video sample**](samples/freepik_sidescrolling-tracking-shot-through-a-futuristic-c_veo3_1_720p_16-9_24fps_16318.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_sidescrolling-tracking-shot-through-a-futuristic-c_veo3_1_720p_16-9_24fps_16318.mp4
+
 
 ---
 
@@ -222,22 +246,30 @@ The vertical angle of the camera changes power dynamics and mood.
 ```
 "Crane shot rising from street level up above the rooftops to reveal the entire city skyline"
 ```
-> 🎬 [**Video sample**](samples/freepik_crane-shot-rising-from-street-level-up-above-the-r_veo3_1_720p_16-9_24fps_16317.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_crane-shot-rising-from-street-level-up-above-the-r_veo3_1_720p_16-9_24fps_16317.mp4
+
 
 ```
 "Camera descends from above the treetops down through the canopy to find a cabin in the woods"
 ```
-> 🎬 [**Video sample**](samples/freepik_camera-descends-from-above-the-treetops-down-throu_veo3_1_720p_16-9_24fps_16381.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_camera-descends-from-above-the-treetops-down-throu_veo3_1_720p_16-9_24fps_16381.mp4
+
 
 ```
 "Boom up from a kneeling figure, rising to reveal an army assembled behind them"
 ```
-> 🎬 [**Video sample**](samples/freepik_boom-up-from-a-kneeling-figure-rising-to-reveal-an_veo3_1_720p_16-9_24fps_16315.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_boom-up-from-a-kneeling-figure-rising-to-reveal-an_veo3_1_720p_16-9_24fps_16315.mp4
+
 
 ```
 "Crane shot lifting from a couple on a beach up into the sky, the coastline stretching into the distance"
 ```
-> 🎬 [**Video sample**](samples/freepik_crane-shot-lifting-from-a-couple-on-a-beach-up-int_veo3_1_720p_16-9_24fps_16314.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_crane-shot-lifting-from-a-couple-on-a-beach-up-int_veo3_1_720p_16-9_24fps_16314.mp4
+
 
 ---
 
@@ -255,22 +287,30 @@ The vertical angle of the camera changes power dynamics and mood.
 ```
 "Slow zoom in on a letter lying on a desk, the handwriting gradually becoming legible"
 ```
-> 🎬 [**Video sample**](samples/freepik_slow-zoom-in-on-a-letter-lying-on-a-desk-the-handw_veo3_1_720p_16-9_24fps_16313.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_slow-zoom-in-on-a-letter-lying-on-a-desk-the-handw_veo3_1_720p_16-9_24fps_16313.mp4
+
 
 ```
 "Dramatic zoom out from an eye to reveal the face, then the room, then the building from outside"
 ```
-> 🎬 [**Video sample**](samples/freepik_dramatic-zoom-out-from-an-eye-to-reveal-the-face-t_veo3_1_720p_16-9_24fps_16312.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_dramatic-zoom-out-from-an-eye-to-reveal-the-face-t_veo3_1_720p_16-9_24fps_16312.mp4
+
 
 ```
 "Quick crash zoom into the subject's face as they hear the news"
 ```
-> 🎬 [**Video sample**](samples/freepik_quick-crash-zoom-into-the-subjects-face-as-they-he_veo3_1_720p_16-9_24fps_16311.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_quick-crash-zoom-into-the-subjects-face-as-they-he_veo3_1_720p_16-9_24fps_16311.mp4
+
 
 ```
 "Subtle zoom in during a monologue, tightening from medium shot to close-up"
 ```
-> 🎬 [**Video sample**](samples/freepik_subtle-zoom-in-during-a-monologue-tightening-from-_veo3_1_720p_16-9_24fps_16310.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_subtle-zoom-in-during-a-monologue-tightening-from-_veo3_1_720p_16-9_24fps_16310.mp4
+
 
 ---
 
@@ -285,22 +325,30 @@ The vertical angle of the camera changes power dynamics and mood.
 ```
 "Camera slowly orbits around a statue in a dark museum, dramatic side-lighting"
 ```
-> 🎬 [**Video sample**](samples/freepik_camera-slowly-orbits-around-a-statue-in-a-dark-mus_veo3_1_720p_16-9_24fps_16309.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_camera-slowly-orbits-around-a-statue-in-a-dark-mus_veo3_1_720p_16-9_24fps_16309.mp4
+
 
 ```
 "360-degree orbit around two people facing each other in an argument"
 ```
-> 🎬 [**Video sample**](samples/freepik_360degree-orbit-around-two-people-facing-each-othe_veo3_1_720p_16-9_24fps_16308.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_360degree-orbit-around-two-people-facing-each-othe_veo3_1_720p_16-9_24fps_16308.mp4
+
 
 ```
 "Arc shot circling a lone warrior standing on a hilltop, wind blowing, golden hour light"
 ```
-> 🎬 [**Video sample**](samples/freepik_arc-shot-circling-a-lone-warrior-standing-on-a-hil_veo3_1_720p_16-9_24fps_16307.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_arc-shot-circling-a-lone-warrior-standing-on-a-hil_veo3_1_720p_16-9_24fps_16307.mp4
+
 
 ```
 "Camera orbits a table of evidence, each piece revealed as the camera passes"
 ```
-> 🎬 [**Video sample**](samples/freepik_camera-orbits-a-table-of-evidence-each-piece-revea_veo3_1_720p_16-9_24fps_16306.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_camera-orbits-a-table-of-evidence-each-piece-revea_veo3_1_720p_16-9_24fps_16306.mp4
+
 
 **Partial vs full:**
 - `"half orbit"` or `"180-degree arc"` — reveals the other side
@@ -339,22 +387,30 @@ The vertical angle of the camera changes power dynamics and mood.
 ```
 "Handheld camera following a person running through a dark forest, shaky and urgent"
 ```
-> 🎬 [**Video sample**](samples/freepik_handheld-camera-following-a-person-running-through_veo3_1_720p_16-9_24fps_16305.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_handheld-camera-following-a-person-running-through_veo3_1_720p_16-9_24fps_16305.mp4
+
 
 ```
 "Documentary-style handheld close-up of a street musician performing"
 ```
-> 🎬 [**Video sample**](samples/freepik_documentarystyle-handheld-closeup-of-a-street-musi_veo3_1_720p_16-9_24fps_16304.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_documentarystyle-handheld-closeup-of-a-street-musi_veo3_1_720p_16-9_24fps_16304.mp4
+
 
 ```
 "Shaky handheld shot of a crowd pushing forward, chaotic and claustrophobic"
 ```
-> 🎬 [**Video sample**](samples/freepik_shaky-handheld-shot-of-a-crowd-pushing-forward-cha_veo3_1_720p_16-9_24fps_16303.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_shaky-handheld-shot-of-a-crowd-pushing-forward-cha_veo3_1_720p_16-9_24fps_16303.mp4
+
 
 ```
 "Raw handheld footage of a soldier moving through rubble, unsteady and tense"
 ```
-> 🎬 [**Video sample**](samples/freepik_raw-handheld-footage-of-a-soldier-moving-through-r_veo3_1_720p_16-9_24fps_16302.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_raw-handheld-footage-of-a-soldier-moving-through-r_veo3_1_720p_16-9_24fps_16302.mp4
+
 
 **Intensity control:**
 - `"gentle handheld"` — subtle, natural breathing motion
@@ -376,17 +432,23 @@ The vertical angle of the camera changes power dynamics and mood.
 ```
 "Dolly zoom on a man standing in a hallway — the walls stretch and warp behind him as he remains fixed"
 ```
-> 🎬 [**Video sample**](samples/freepik_dolly-zoom-on-a-man-standing-in-a-hallway-the-wall_veo3_1_720p_16-9_24fps_16301.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_dolly-zoom-on-a-man-standing-in-a-hallway-the-wall_veo3_1_720p_16-9_24fps_16301.mp4
+
 
 ```
 "Vertigo effect on a woman's face, background distorting as the camera pushes in and zooms out simultaneously"
 ```
-> 🎬 [**Video sample**](samples/freepik_vertigo-effect-on-a-womans-face-background-distort_veo3_1_720p_16-9_24fps_16300.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_vertigo-effect-on-a-womans-face-background-distort_veo3_1_720p_16-9_24fps_16300.mp4
+
 
 ```
 "Hitchcock zoom on a figure at the edge of a cliff, the landscape warping with unease"
 ```
-> 🎬 [**Video sample**](samples/freepik_hitchcock-zoom-on-a-figure-at-the-edge-of-a-cliff-_veo3_1_720p_16-9_24fps_16299.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_hitchcock-zoom-on-a-figure-at-the-edge-of-a-cliff-_veo3_1_720p_16-9_24fps_16299.mp4
+
 
 > **Note:** This is one of the harder effects for AI models. Try multiple generations and be explicit about the background distortion.
 
@@ -403,17 +465,23 @@ The vertical angle of the camera changes power dynamics and mood.
 ```
 "Whip pan from a character looking left to reveal a figure standing in the doorway"
 ```
-> 🎬 [**Video sample**](samples/freepik_whip-pan-from-a-character-looking-left-to-reveal-a_veo3_1_720p_16-9_24fps_16298.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_whip-pan-from-a-character-looking-left-to-reveal-a_veo3_1_720p_16-9_24fps_16298.mp4
+
 
 ```
 "Fast swish pan from the clock on the wall to the window, motion blur between"
 ```
-> 🎬 [**Video sample**](samples/freepik_fast-swish-pan-from-the-clock-on-the-wall-to-the-w_veo3_1_720p_16-9_24fps_16297.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_fast-swish-pan-from-the-clock-on-the-wall-to-the-w_veo3_1_720p_16-9_24fps_16297.mp4
+
 
 ```
 "Whip pan transition — starting on a sunrise, blurring, landing on a moonlit scene"
 ```
-> 🎬 [**Video sample**](samples/freepik_whip-pan-transition-starting-on-a-sunrise-blurring_veo3_1_720p_16-9_24fps_16296.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_whip-pan-transition-starting-on-a-sunrise-blurring_veo3_1_720p_16-9_24fps_16296.mp4
+
 
 ---
 
@@ -428,17 +496,23 @@ The vertical angle of the camera changes power dynamics and mood.
 ```
 "Camera slowly rolls clockwise as a character falls through a dreamlike void"
 ```
-> 🎬 [**Video sample**](samples/freepik_camera-slowly-rolls-clockwise-as-a-character-falls_veo3_1_720p_16-9_24fps_16295.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_camera-slowly-rolls-clockwise-as-a-character-falls_veo3_1_720p_16-9_24fps_16295.mp4
+
 
 ```
 "Gradual dutch roll tilting the horizon as the world becomes increasingly surreal"
 ```
-> 🎬 [**Video sample**](samples/freepik_gradual-dutch-roll-tilting-the-horizon-as-the-worl_veo3_1_720p_16-9_24fps_16294.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_gradual-dutch-roll-tilting-the-horizon-as-the-worl_veo3_1_720p_16-9_24fps_16294.mp4
+
 
 ```
 "Camera barrel rolls as a spaceship enters zero gravity, objects floating"
 ```
-> 🎬 [**Video sample**](samples/freepik_camera-barrel-rolls-as-a-spaceship-enters-zero-gra_veo3_1_720p_16-9_24fps_16293.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_camera-barrel-rolls-as-a-spaceship-enters-zero-gra_veo3_1_720p_16-9_24fps_16293.mp4
+
 
 ---
 
@@ -453,22 +527,30 @@ The vertical angle of the camera changes power dynamics and mood.
 ```
 "Static wide shot of an empty room — a door slowly opens and a figure enters"
 ```
-> 🎬 [**Video sample**](samples/freepik_static-wide-shot-of-an-empty-room-a-door-slowly-op_veo3_1_720p_16-9_24fps_16292.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_static-wide-shot-of-an-empty-room-a-door-slowly-op_veo3_1_720p_16-9_24fps_16292.mp4
+
 
 ```
 "Locked-off camera on a park bench, people passing by in different seasons"
 ```
-> 🎬 [**Video sample**](samples/freepik_lockedoff-camera-on-a-park-bench-people-passing-by_veo3_1_720p_16-9_24fps_16290.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_lockedoff-camera-on-a-park-bench-people-passing-by_veo3_1_720p_16-9_24fps_16290.mp4
+
 
 ```
 "Fixed frame medium shot of a face, the only movement is a single tear falling"
 ```
-> 🎬 [**Video sample**](samples/freepik_fixed-frame-medium-shot-of-a-face-the-only-movemen_veo3_1_720p_16-9_24fps_16289.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_fixed-frame-medium-shot-of-a-face-the-only-movemen_veo3_1_720p_16-9_24fps_16289.mp4
+
 
 ```
 "Completely still camera, wide shot of a landscape — clouds moving, light changing"
 ```
-> 🎬 [**Video sample**](samples/freepik_completely-still-camera-wide-shot-of-a-landscape-c_veo3_1_720p_16-9_24fps_16288.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_completely-still-camera-wide-shot-of-a-landscape-c_veo3_1_720p_16-9_24fps_16288.mp4
+
 
 > **Pro tip:** Static shots are the most reliable for AI models — fewer motion artifacts, more consistent quality.
 
@@ -485,22 +567,30 @@ The vertical angle of the camera changes power dynamics and mood.
 ```
 "Aerial flyover of a mountain range at golden hour, moving forward through clouds"
 ```
-> 🎬 [**Video sample**](samples/freepik_aerial-flyover-of-a-mountain-range-at-golden-hour-_veo3_1_720p_16-9_24fps_16287.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_aerial-flyover-of-a-mountain-range-at-golden-hour-_veo3_1_720p_16-9_24fps_16287.mp4
+
 
 ```
 "Drone shot flying low over ocean waves at sunset, moving toward the horizon"
 ```
-> 🎬 [**Video sample**](samples/freepik_drone-shot-flying-low-over-ocean-waves-at-sunset-m_veo3_1_720p_16-9_24fps_16286.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_drone-shot-flying-low-over-ocean-waves-at-sunset-m_veo3_1_720p_16-9_24fps_16286.mp4
+
 
 ```
 "Bird's eye aerial tracking a river through dense forest canopy"
 ```
-> 🎬 [**Video sample**](samples/freepik_birds-eye-aerial-tracking-a-river-through-dense-fo_veo3_1_720p_16-9_24fps_16375.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_birds-eye-aerial-tracking-a-river-through-dense-fo_veo3_1_720p_16-9_24fps_16375.mp4
+
 
 ```
 "Sweeping aerial shot circling a medieval castle on a cliff, fog in the valley below"
 ```
-> 🎬 [**Video sample**](samples/freepik_sweeping-aerial-shot-circling-a-medieval-castle-on_veo3_1_720p_16-9_24fps_16283.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_sweeping-aerial-shot-circling-a-medieval-castle-on_veo3_1_720p_16-9_24fps_16283.mp4
+
 
 **Height control:**
 - `"high altitude aerial"` — far above, map-like
@@ -520,12 +610,16 @@ The vertical angle of the camera changes power dynamics and mood.
 ```
 "First person POV walking through a dark hallway, hands visible reaching for a door handle"
 ```
-> 🎬 [**Video sample**](samples/freepik_first-person-pov-walking-through-a-dark-hallway-ha_veo3_1_720p_16-9_24fps_16282.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_first-person-pov-walking-through-a-dark-hallway-ha_veo3_1_720p_16-9_24fps_16282.mp4
+
 
 ```
 "POV shot looking down at hands opening an old letter, trembling slightly"
 ```
-> 🎬 [**Video sample**](samples/freepik_pov-shot-looking-down-at-hands-opening-an-old-lett_veo3_1_720p_16-9_24fps_16281.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_pov-shot-looking-down-at-hands-opening-an-old-lett_veo3_1_720p_16-9_24fps_16281.mp4
+
 
 ```
 "First person perspective of running through a forest, branches whipping past"
@@ -534,7 +628,9 @@ The vertical angle of the camera changes power dynamics and mood.
 ```
 "POV from inside a car, driving down an empty highway at night, dashboard visible"
 ```
-> 🎬 [**Video sample**](samples/freepik_pov-from-inside-a-car-driving-down-an-empty-highwa_veo3_1_720p_16-9_24fps_16279.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_pov-from-inside-a-car-driving-down-an-empty-highwa_veo3_1_720p_16-9_24fps_16279.mp4
+
 
 ---
 
@@ -549,22 +645,30 @@ The vertical angle of the camera changes power dynamics and mood.
 ```
 "Camera follows behind a cloaked figure walking through a narrow medieval alley"
 ```
-> 🎬 [**Video sample**](samples/freepik_camera-follows-behind-a-cloaked-figure-walking-thr_veo3_1_720p_16-9_24fps_16278.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_camera-follows-behind-a-cloaked-figure-walking-thr_veo3_1_720p_16-9_24fps_16278.mp4
+
 
 ```
 "Follow shot trailing a child running through a field of tall grass"
 ```
-> 🎬 [**Video sample**](samples/freepik_follow-shot-trailing-a-child-running-through-a-fie_veo3_1_720p_16-9_24fps_16374.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_follow-shot-trailing-a-child-running-through-a-fie_veo3_1_720p_16-9_24fps_16374.mp4
+
 
 ```
 "Behind-the-back follow shot of an astronaut floating through a space station corridor"
 ```
-> 🎬 [**Video sample**](samples/freepik_behindtheback-follow-shot-of-an-astronaut-floating_veo3_1_720p_16-9_24fps_16275.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_behindtheback-follow-shot-of-an-astronaut-floating_veo3_1_720p_16-9_24fps_16275.mp4
+
 
 ```
 "Close follow shot behind a woman's head as she pushes through a crowd"
 ```
-> 🎬 [**Video sample**](samples/freepik_close-follow-shot-behind-a-womans-head-as-she-push_veo3_1_720p_16-9_24fps_16274.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_close-follow-shot-behind-a-womans-head-as-she-push_veo3_1_720p_16-9_24fps_16274.mp4
+
 
 ---
 
@@ -579,22 +683,30 @@ The vertical angle of the camera changes power dynamics and mood.
 ```
 "Rack focus from a blurry flower in the foreground to a sharp figure standing in the distance"
 ```
-> 🎬 [**Video sample**](samples/freepik_rack-focus-from-a-blurry-flower-in-the-foreground-_veo3_1_720p_16-9_24fps_16273.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_rack-focus-from-a-blurry-flower-in-the-foreground-_veo3_1_720p_16-9_24fps_16273.mp4
+
 
 ```
 "Focus pull from a close-up of a ring on the table to the person sitting behind it"
 ```
-> 🎬 [**Video sample**](samples/freepik_focus-pull-from-a-closeup-of-a-ring-on-the-table-t_veo3_1_720p_16-9_24fps_16272.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_focus-pull-from-a-closeup-of-a-ring-on-the-table-t_veo3_1_720p_16-9_24fps_16272.mp4
+
 
 ```
 "Shallow depth of field, focus shifts from the window raindrops to the face reflected in the glass"
 ```
-> 🎬 [**Video sample**](samples/freepik_shallow-depth-of-field-focus-shifts-from-the-windo_veo3_1_720p_16-9_24fps_16271.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_shallow-depth-of-field-focus-shifts-from-the-windo_veo3_1_720p_16-9_24fps_16271.mp4
+
 
 ```
 "Rack focus between two characters — one sharp, one blurry — swapping as the conversation shifts"
 ```
-> 🎬 [**Video sample**](samples/freepik_rack-focus-between-two-characters-one-sharp-one-bl_veo3_1_720p_16-9_24fps_16270.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_rack-focus-between-two-characters-one-sharp-one-bl_veo3_1_720p_16-9_24fps_16270.mp4
+
 
 ---
 
@@ -609,17 +721,23 @@ The vertical angle of the camera changes power dynamics and mood.
 ```
 "One continuous shot following a character from the street through a door, up stairs, and into a room"
 ```
-> 🎬 [**Video sample**](samples/freepik_one-continuous-shot-following-a-character-from-the_veo3_1_720p_16-9_24fps_16269.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_one-continuous-shot-following-a-character-from-the_veo3_1_720p_16-9_24fps_16269.mp4
+
 
 ```
 "Unbroken long take gliding through a ballroom — past dancers, musicians, and servers"
 ```
-> 🎬 [**Video sample**](samples/freepik_unbroken-long-take-gliding-through-a-ballroom-past_veo3_1_720p_16-9_24fps_16268.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_unbroken-long-take-gliding-through-a-ballroom-past_veo3_1_720p_16-9_24fps_16268.mp4
+
 
 ```
 "Single-take shot starting on a close-up, pulling back to wide, then pushing into another character"
 ```
-> 🎬 [**Video sample**](samples/freepik_singletake-shot-starting-on-a-closeup-pulling-back_veo3_1_720p_16-9_24fps_16267.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_singletake-shot-starting-on-a-closeup-pulling-back_veo3_1_720p_16-9_24fps_16267.mp4
+
 
 > **Note:** True long takes are extremely challenging for AI. Keep them under 10 seconds and describe the path clearly.
 
@@ -678,7 +796,9 @@ Industrial wasteland, overcast sky.
 Cold blue-grey lighting with harsh overhead shadows.
 Slow, deliberate pace."
 ```
-> 🎬 [**Video sample**](samples/freepik_wide-shot-low-angle-slow-crane-rising-from-ground-_veo3_1_720p_16-9_24fps_16266.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_wide-shot-low-angle-slow-crane-rising-from-ground-_veo3_1_720p_16-9_24fps_16266.mp4
+
 
 **Intimate Character Moment:**
 ```
@@ -689,7 +809,9 @@ Sitting at a wooden kitchen table by a window.
 Soft golden afternoon light streaming in, dust particles floating.
 Very slow, contemplative."
 ```
-> 🎬 [**Video sample**](samples/freepik_closeup-eye-level-gentle-dolly-in85mm-lens-shallow_veo3_1_720p_16-9_24fps_16265.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_closeup-eye-level-gentle-dolly-in85mm-lens-shallow_veo3_1_720p_16-9_24fps_16265.mp4
+
 
 **Action Sequence:**
 ```
@@ -700,7 +822,9 @@ Cyberpunk city at night, rain falling.
 Harsh neon pink and blue reflections on wet pavement.
 Fast-paced, urgent energy."
 ```
-> 🎬 [**Video sample**](samples/freepik_medium-shot-slightly-low-angle-fast-tracking-shot-_veo3_1_720p_16-9_24fps_16373.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_medium-shot-slightly-low-angle-fast-tracking-shot-_veo3_1_720p_16-9_24fps_16373.mp4
+
 
 **Establishing Grandeur:**
 ```
@@ -711,7 +835,9 @@ Dawn, first light hitting the peaks.
 Golden and purple sky, mist in the valleys.
 Majestic, slow glide forward."
 ```
-> 🎬 [**Video sample**](samples/freepik_extreme-wide-shot-aerial-flyover-slow-forward-move_veo3_1_720p_16-9_24fps_16260.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_extreme-wide-shot-aerial-flyover-slow-forward-move_veo3_1_720p_16-9_24fps_16260.mp4
+
 
 **Psychological Tension:**
 ```
@@ -722,7 +848,9 @@ Sparse office, single desk lamp.
 Harsh single-source light from the lamp, deep shadows on face.
 Still, no movement except a subtle eye twitch."
 ```
-> 🎬 [**Video sample**](samples/freepik_medium-closeup-dutch-angle-static-camera50mm-lens-_veo3_1_720p_16-9_24fps_16259.mp4)
+
+https://raw.githubusercontent.com/knupenohodrop-glitch/ai-movie-guide/master/samples/freepik_medium-closeup-dutch-angle-static-camera50mm-lens-_veo3_1_720p_16-9_24fps_16259.mp4
+
 
 ---
 
