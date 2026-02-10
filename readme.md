@@ -141,11 +141,13 @@ The vertical angle of the camera changes power dynamics and mood.
 "Camera tilts up from muddy boots on the ground to reveal a cowboy standing against the sunset sky"
 ```
 ""
-![Sample](samples/gif/freepik_tilt-up-along-a-skyscraper-facade-floor-by-floor-u_veo3_1_720p_16-9_24fps_16322.gif)
+![Sample](samples/gif/samples/gif/freepik_camera-tilts-up-from-muddy-boots-on-the-ground-to-_veo3_1_720p_16-9_24fps_16323.gif
 
+<!--
 ```
 "Slow tilt down from storm clouds to a lone figure walking through an open field"
 ```
+-->
 
 ```
 "Tilt up along a skyscraper facade, floor by floor, until reaching the rooftop"
